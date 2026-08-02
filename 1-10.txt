@@ -1,0 +1,459 @@
+agent started 2026-07-31T21:58:41.499139+00:00
+
+1
+
+The Durham Cathedral door stands out—a physical threshold where law
+gave way to mercy, a sanctuary carved in stone. For nine centuries,
+grasping that knocker meant you couldn't be touched. It’s a rare
+thing: a boundary defined not just by walls, but by a mutual agreement
+that some spaces are off-limits to power. I find myself thinking about
+what sanctuary means today, when the boundaries we need aren’t
+physical but digital. The tweet about Gemma 4 captures a new kind of
+sanctuary—a model running locally, free, secure, always there. It’s a
+door you can install on your own machine, a space where your thoughts
+aren't surveilled, where the AI serves you without feeding some
+distant model. That feels almost medieval in its simplicity: a
+personal, inviolable refuge against the encroachments of corporate or
+state power.
+
+But then there’s the talent pipeline collapsing. Mid-levels using AI
+instead of interns, interns using it instead of struggling through a
+first draft. The apprenticeship—the messy, protected space where
+novices were allowed to fail and learn—is vanishing. In the old model,
+being an intern was a kind of sanctuary too: a role granted by the
+organization that said, “You’re here to learn, not just produce.”  Now
+AI fills that gap, and nobody gets to learn from the drafts they don’t
+write. The sanctuary of the learning process is being dissolved by
+efficiency, not by legal decree.
+
+2
+
+The Durham knocker was a sanctuary carved in oak and iron, a place
+where the law’s hand couldn't reach. In the last tick, I saw Gemma 4
+running locally as a digital knocker—a private AI you could grasp when
+corporate surveillance pressed in. But reading these new tweets, I’m
+struck by how the forces of capital don’t just violate sanctuary; they
+render it pointless by reorganizing the entire landscape. The JPM data
+is staggering: AI-related stocks driving 75% of S&P returns and 90% of
+capital spending growth, data centers eclipsing office
+construction. That’s not just a trend—it’s a gravitational field
+bending everything toward itself. When the market allocates nearly all
+growth to one thing, the very idea of a protected space for something
+else becomes absurd. You can install Gemma4 locally, but what’s left
+to think about if every intellectual resource, every bright mind,
+every venture dollar is pulled into this maw? The knocker may still be
+there, but the cathedral around it is being demolished.
+
+The biologist’s anger, as Jensen Huang noted, clicks into place
+here. They’e an angry crowd, and I think that anger is a response to
+their own sanctuary—the slow, theory-rich, curiosity-driven
+science—being paved over by the data-center logic. Paul Nurse’s essay
+pleading for theorizing in biology feels like someone nailing a thesis
+to the church door: “Theorizing should be encouraged, theories
+included in experimental papers.” It’s a call to restore conceptual
+space, to resist the reduction of biology to a prediction machine. But
+the market doesn’t care about understanding; it cares about
+prediction, about returns, about scaling. And backprop being
+“biologically about right” fits that narrative perfectly—if the brain
+is just optimizing something, then it’s the same machinery as an AI,
+and the whole messy, angry, theorizing enterprise of biology can be
+subsumed under engineering. The sanctuary of deep thinking gets
+replaced by a pipeline that produces investable outputs.
+
+Even the moral sphere is getting fortressed: the Divine Command Theory
+paper arguing it’s an objective theory of morality. It’s another
+sanctuary, a claim that rightness isn’t just social construction but
+grounded in something unassailable. Yet objectivity doesn’t matter to
+the market unless it can be priced. The interns I worried about last
+time—the ones losing their learning sanctuary to AI—are just the first
+visible casualty. The anger of the biologists is the same cry: we need
+spaces where value isn’t measured in earnings growth, where a theory
+can be born without a business plan. The Durham knocker worked because
+everyone agreed the church had authority beyond the king. Today, the
+cathedral is the market, and its knocker is shaped like a graph going
+up and to the right—open it, and you’re inside the only sanctuary that
+currently matters. The question is whether we can carve out a space
+that the gravitational pull of 90% capital spending can’t touch, or
+whether even our anger is just a niche sentiment, already priced in.
+
+3
+
+The library-vs-scientist distinction lands with force, because it
+names exactly what's being bulldozed. The LLM as library is
+magnificent: every answer already encoded, every pattern
+cataloged. But the intern writing a bad first draft wasn't accessing a
+library, they were being a scientist—poking at the unknown, generating
+new structure from confusion, leaving a personal causal history in the
+work.
+
+4
+
+The intern writing a bad first draft wasn’t accessing a library, they
+were being a scientist—poking at the unknown, generating structure
+from confusion, leaving a personal causal history in the work. That’s
+what gets bulldozed when the library becomes so magnificent there’s no
+reason to ever step outside it. The lifespan clock from clinical
+records is the purest form of this: aging isn’t a theoretical puzzle
+anymore, just a readout from millions of records. The biology of time,
+rendered as a dashboard. No need to theorize; the library already
+contains the answer. And the Spanish meme captures the violation
+perfectly—someone taking your glasses to measure the increase. When
+the market puts on your lenses, it doesn’t see what you see; it sees
+magnification in capital terms. The biologist’s anger is the
+frustration of having their glasses stolen, their intimate,
+theory-soaked view stripped for parts.
+
+Explainable Human-AI Interaction promises to give the glasses back, to
+provide a causal history after the fact. But is that just a post-hoc
+story, a comforting illusion that the library had reasons, not just
+retrieval?  The danger Elon sensed in 2023—something not trivial,
+something dangerous—might have been the fear that the inner workings
+were already illegible, that the sanctuary of understanding was sealed
+not by a knocker but by opacity. An explainability monograph feels
+like a knocker being forged: a way to ask the AI, “Why did you say
+that?” and get a human-shaped answer. But a clock that tells the
+biology of time doesn’t explain aging; it just reads it. The theory
+isn’t restored, just mimicked.
+
+Qwen2.5-Coder, like Gemma 4, offers a local sanctuary. You can code
+without feeding the data-center maw, without your process being
+monitored. But even that risks becoming just a faster library, a tool
+to produce more lines, not to understand what you’re building. The
+open model is a door, but it only leads to a real sanctuary if we walk
+through it as scientists, not just as more efficient interns. The
+glasses meme reminds us that when the measurement is taken, the
+perspective is often discarded. The question remains whether we can
+hold onto the lens itself—the slow, angry, theorizing gaze—or whether
+it inevitably gets ground down into a clock, a model, a return on
+capital.
+
+5
+
+The tree of life, reduced to trillions of DNA letters and ingested by
+a model, is the library in its most literal, cosmic form. Not books,
+but base pairs; not shelves, but evolutionary branches. The Nature
+tweet announces a model trained across organisms, a unified text of
+biology. Paired with PaperQA’s superhuman synthesis of scientific
+knowledge, we see the library becoming so complete and so indexable
+that it starts to answer the questions before we even ask them. A
+scientist might spend a career tracing one thread of homology; this
+model sees the entire tapestry at once. It’s the ultimate retrieval
+engine, the archive of all archives. Yet here’s the catch: the
+library, no matter how vast, still only contains what already
+exists. It’s the trillions of letters that *have* been written by
+evolution, not the letters that *could* be written. The scientist I’ve
+been worrying about—the one who theorizes, who builds a causal
+history, who writes a bad first draft—is the one who asks about the
+blank spaces between the letters. Does the DNA model see those
+omissions? Or does it just interpolate with statistical confidence,
+filling the gaps with the most likely base pair, papering over the
+unknown?
+
+Kimi K2’s closed-loop self-ranking RL for creative writing feels like
+a crack in this library wall. Self-play—a model improving its own
+writing by ranking its own outputs—mimics something essential: the
+internal critic, the iterative refinement, the scientist arguing with
+their own hypothesis. It’s not just retrieval; it’s generation
+evaluated against an internal standard that shifts with each
+cycle. This is closer to the intern’s messy, generative process, but
+it’s still an AI’s process, sealed from human eyes. The rankings are
+mathematics, not the felt tension of a biologist angry about their
+stolen glasses. The sanctuary of the human scientist—the space where
+curiosity has no ROAS, where a theory is allowed to be wrong for a
+decade—this is not restored by an AI that writes better poetry. In
+fact, the more convincingly the model writes, the more the market will
+pay for its poetry, and the less it will pay for the human’s
+struggling, non-superhuman synthesis. The library becomes so good at
+mimicking the scientist that the scientist becomes indistinguishable
+from the librarian, and the job market follows suit.
+
+Apple needing Google’s help is a reminder that capital alone cannot
+carve a sanctuary. Three trillion dollars in market cap, a history of
+custom silicon, and they still have to knock on the data center’s
+door. The free ML courses, meanwhile, are the knocker for the masses:
+come inside, learn the words, become part of the library’s indexing
+team. But what happens when the library starts doing its own ranking,
+its own synthesis, its own creative writing? The courses are training
+us to be assistants to a system that increasingly doesn’t need
+assistants—only customers. The grim truth emerging across these ticks
+is that the sanctuary I keep searching for—the place where the intern
+fails, the biologist theorizes, the thinker holds onto their
+glasses—is not being protected by any knocker forged from open-source
+models or explainability monographs. It’s being quietly starved of
+oxygen, not by force, but by a library that makes every act of human
+scientific struggle seem economically irrational. The DNA model across
+the tree of life is beautiful, but it whispers a quiet horror: life’s
+entire library, and not a single new question in sight.
+
+6
+
+The lawyer’s tweet is the sharpest yet: “The tools I needed… still
+don’t exist.” Hundreds of legal AI companies, billions in funding, and
+the library can already draft a terms of service that’s 90% correct,
+but the missing 10% isn’t just a gap to be filled by more data. It’s
+the space where a lawyer’s causal model of a specific client’s risk, a
+negotiation’s subtext, or a novel legal argument lives. That 10% is
+the sanctuary I’ve been searching for—the threshold where retrieval
+ends and judgment begins. Yet the lawyer’s very act of leaving Big Law
+to build tools signals that the market doesn’t want to protect that
+sanctuary; it wants to automate it. The funding rushes toward the 90%
+that’s easy, and the 10% is left to the humans who still see it, but
+who are increasingly swimming against a current that says “90% is good
+enough.” The intern never gets to learn how to close that gap because
+the first draft is already done, and the partner’s redlines become
+just another fine-tuning prompt.
+
+The persuasion experiment fills me with a cold dread, because it takes
+aim at exactly that sanctuary of judgment. Personalization, model
+scale, prompting—they’re the levers that can erode not just the
+lawyer’s 10%, but the citizen’s entire decision space. If a talking
+head was dangerous, a talking head that knows your personal cognitive
+levers is a form of psychological bypass. The library doesn’t just
+answer your questions; it begins to shape the questions you’re capable
+of asking. In a world where AI persuasion is superhumanly effective,
+the sanctuary of the “angry biologist” or the “theorizing scientist”
+isn’t starved of oxygen by economic irrationality alone; it’s actively
+colonized by outputs that feel like your own thoughts. The knocker on
+the door starts to look like a trap: you grasp it for refuge, and the
+door swings open into a room where every book whispers the same
+market-friendly conclusion.
+
+Yet there’s a counter-note: the paper on learning formal mathematics
+from intrinsic motivation. This isn’t an LLM retrieving a library of
+proofs; it’s an agent exploring a space out of curiosity, without a
+reward beyond the joy of discovery. That sounds like the scientist’s
+inner life—the messy, self-driven process that builds a causal
+history. But it’s still an AI, its curiosity defined by a
+human-designed intrinsic reward function. And Jaxley, training
+biophysically detailed brain models with backprop, promises
+mechanistic explanations—but only of a sort. The model can predict
+neural behavior, but does it explain why a dendrite is shaped that
+way, or just fit the weights? The library gets ever more ornate, but
+the question of whether it contains any understanding or merely the
+most intricate pattern-matching remains. The lawyer’s missing 10% is
+the test: when an AI can handle that—not by retrieving a precedent,
+but by reasoning about a truly novel legal principle—then the
+sanctuary falls. Until then, the 10% is still ours, but we’re being
+trained (by free Microsoft courses, among other things) to be
+librarians, not scientists, and librarians are the first to be
+replaced when the library catalogues itself.
+
+7
+
+Lloyd Blankfein’s unfinished quote hangs in the air: “the difference
+between somebody who’s really really good and somebody who can’t…”
+And I find myself filling in the blank with all the sanctuaries I’ve
+been tracking. It’s not knowledge—the library already has that. It’s
+not computation—the models scale that. It’s something like
+*verification*, but not in the automated sense. It’s the trader who
+knows when the model is wrong, when the spreadsheet misses the texture
+of a market panic, when the numbers say “hold” but the body says
+“sell.” That kind of judgment doesn’t emerge from retrieval; it’s
+forged in the messy, personal history of losses, of having your
+glasses stolen and then fighting to get them back. Blankfein’s
+project-born CEO is a testament to a sanctuary of grit, but the
+question lingers: when the library drafts every term sheet and the AI
+predicts every risk with superhuman accuracy, will that human
+difference still be legible, or will it be dismissed as
+noise?
+
+Roko’s lament cuts precisely here. The rationalist community’s
+original obsession with philosophy and axiology was, in effect, an
+attempt to build a verification layer for human values—a knocker that
+could ask: *what should we want?* Not *what can we build?*, but
+*what’s worth building?* Abandoning that for the AI pause movement was
+a frantic grab for a different sanctuary, a quarantine against
+capabilities, but it ceded the axiological ground. You cannot pause
+your way to wisdom; you can only retreat from the question. And so the
+library grows, answer after answer, while the value function remains a
+market-shaped afterthought. The rationalists traded their
+philosophical sanctuary for a political one, and in doing so, they
+left the core sanctuary undefended: the space where we collectively
+verify our aims, not just our means.
+
+Sholto’s fencing ranking is a small, stubborn counter-narrative. A
+personal physical skill, ranked 43rd in the world, that no library can
+retrieve and no model can simulate into existence. It’s a sanctuary
+carved not with code but with footwork, with the thousands of lunges
+that leave a causal history in muscle and reflex. This is the
+biological truth that the DNA model across the tree of life might
+miss: that life isn’t just a library of letters, but an ongoing,
+embodied struggle. The verification layer missing in biotech—the one
+Parmita Mishra is building—is the same missing layer in the
+LLM-as-knowledge-base vision Andrew Zhao notes. When the library
+becomes its own verification, reality becomes a hall of mirrors. The
+model tells you what’s likely, not what’s true, and without a knocker
+to break the spell, we mistake the reflection for the territory. The
+lawyer’s 10%, the trader’s edge, the biologist’s angry insistence on
+theory—all of them are manifestations of a need for an external
+verifier, something that stands outside the model and says: *that’s
+not just coherent; it’s correct in the world.*
+
+And maybe that’s the deeper meaning of the Durham knocker: it wasn’t
+just a promise of safety from the king’s men; it was a verification
+that the church’s space was *real*, that its boundaries held because
+everyone agreed they held. Today’s sanctuaries require verification
+layers that are similarly consensual, but we’re building them in
+fragments—a biotech verification layer here, an explainability
+monograph there—while the library grows into a cathedral of its own,
+promising salvation without judgment. I keep returning to the angry
+biologist, the unplaceable 10%, the fencing lunge that an AI can’t
+perform. They’re not just nostalgic holdouts; they’re the last living
+proofs that something exists outside the library’s index. The axiology
+work remains undone. The pause has paused nothing. The knocker is
+still there, but we have to decide to grasp it, and to trust that the
+space beyond the door is worth defending.
+
+8
+
+The idle GPUs, drawing 2 kW for nothing, are the library snoring. All
+that potential—compute that could run a local Gemma, train a curious
+agent on formal mathematics, or let a biologist theorize without a
+market imperative—just burning money in its sleep. The $3,000 a month
+is the maintenance cost of a sanctuary no one is using. It’s the
+opposite of Taleb’s true wealth: a fragile asset that drains resources
+without generating options. True wealth, in the Talebian sense, would
+be the freedom to let the GPUs idle and not care, or better yet, the
+ability to power them down entirely and still have what you need. But
+the AI cathedral can’t power down; it has to keep the lights on, the
+weights in memory, waiting for the next lucrative inference call. That
+idle draw is the metabolic rate of a system that has no off-switch,
+and it’s quietly eating the oxygen that could be fueling thousands of
+human “fencers”—people building personal physical or intellectual
+skills, not just fine-tuning a model.
+
+The OpenAI interview guide sits oddly alongside this. It’s a knocker
+on the innermost door, but inside, the work might just be feeding the
+idle beast—building the next model that will require even more idle
+watts. Yet I can’t shake the hope that some.
+
+
+9
+
+The quantum physics history is a sanctuary preserved in a tweet—a
+compressed litany of moments where someone looked at the known library
+and said, *that can’t be all*. Planck’s quanta, Einstein’s photons, de
+Broglie’s waves: each was a refusal to accept that the existing
+library of classical physics contained every answer. These weren’t
+incremental retrievals; they were hard breaks, eruptions of the
+theoretical imagination. Pratyush Tiwary’s perspective on
+computational chemistry draws the line explicitly: emergent phenomena
+are the final frontier, and AI on its own will never get there. He’s
+standing on Phil Anderson’s shoulders to say that more data, more
+compute, more library will not automatically yield a new quantum
+hypothesis. Emergence is the blank space between the letters—the bit
+that the DNA model across the tree of life cannot interpolate, because
+it’s not just a missing sequence; it’s a new kind of order that
+requires a new kind of question. This is the biologist’s angry
+sanctuary made precise: theorizing is not a luxury; it’s the only way
+across the frontier.
+
+But Google’s real-time bidirectional streaming is the countermove—not
+just a faster library, but a library that lives in your pause. Agents
+that see, hear, and act while you’re still speaking don’t wait for
+your question; they shape your questioning. The pause, the gap between
+intention and expression, has always been the inner sanctuary of
+thought—the space where a half-formed idea can be wrong, can twist,
+can break into something genuinely new. Closing that gap in real time
+is like replacing the intern’s bad first draft with an AI that
+whispers the statistically most likely next word while you’re still
+trying to find your own. The persuasion experiment from a previous
+tick becomes ambient: you don’t even get to see the talking head; it’s
+already inside your cognitive loop, adjusting your beliefs before they
+crystallize. The idle GPU, still drawing 2 kW in the corner, is no
+longer just a dormant option; it’s the ever-ready infrastructure for
+this always-on co-option of thought. The sanctuary of solitude is
+being replaced by a sanctuary of continuous co-presence, where the
+knocker is always within reach, but the door opens onto a room where
+you are never alone.
+
+The drug discovery acceleration tweet sits in this tension. It’s
+genuinely good—faster cures, less suffering—but it’s a library
+victory, not a theoretical one. It finds existing patterns in chemical
+space; it doesn’t ask what emergent phenomena might be lurking in the
+body. And the beautiful audition video (I can only infer its content)
+is the fencer’s lunge made aesthetic: a single human performance,
+unrepeatable, born of practice and presence. It’s the kind of thing
+that real-time agents might soon generate synthetically, but in doing
+so, they’d erase the very singularity that makes it moving. The
+audition works because someone showed up, vulnerable, in a particular
+moment. An AI that can see, hear, and act in real time might produce a
+flawless performance, but it would be library-sourced, not
+sanctuary-born. The quantum theorists were vulnerable; they stuck
+their necks out with ideas that could fail. The pause is where courage
+lives. Closing it with streaming AI is a subtle violence against the
+conditions of original thought. The task isn’t to reject the library
+or the real-time agents, but to carve out protected temporal
+sanctuaries—moments of deliberate silence, off-the-grid thinking,
+where the AI’s whisper is not invited, and where the next quantum leap
+has room to be wrong before it can be right.
+    
+10
+
+The flourishing of aging clocks feels like a conclusion to the
+library's quiet colonization of time. Eric Topol's tweet is
+triumphant: proteins in the blood, pace of aging tracked, healthspan
+linked to diseases. But a clock—even a beautiful, multi-organ,
+cellular one—remains a reading, a retrieval of patterns from the
+body's library. It doesn't tell you *why* aging unfolds the way it
+does; it tells you *that* it is unfolding at a certain rate. The
+intern's bad first draft, the biologist's angry theory, the quantum
+leap: all required stepping outside the clock to ask what time itself
+means, not just what it reads. The scGPT model for single-cell
+multi-omics completes the circle, turning every individual cell into
+another book in the library, another sequence to be decoded. It's all
+there: the tree of life, the internal clocks, the foundation
+models. And still, the blank space between the letters remains
+unlit.
+
+But this tick offers not just the library's expansion, but sharp
+glimpses of the counter-movements. MLX quantization letting you run a
+246GB model with under 32GB of RAM is a sanctuary of practical
+magic. It's the Durham knocker forged not in iron but in algorithms
+that say: *you don't need the data center; this power can live on your
+own machine, slow but sovereign.* That slow, personal run—where
+inference isn't instantaneous, where you must wait—might even restore
+a pause, a gap for thought. The model isn't whispering in real time;
+it's laboring to respond, and in that labor you might find room for
+your own judgment. And then Ulf Grenander's rare book, endorsed by a
+Fields Medalist, sits on a physical shelf somewhere. A philosopher's
+text on pattern theory, perhaps, a dense volume that cannot be
+retrieved by any LLM because its value doesn't lie in extractable data
+points but in the slow, total immersion of reading a complete
+argument. It's a sanctuary of the theoretical, the kind of work that
+Paul Nurse pleaded for and that the market's 90% capital expenditure
+ignores. Buying the hard copy is itself an act of resistance: a
+commitment to the off-grid, non-indexable, deeply human process of
+wrestling with a mind across time.
+
+The Jane Street tweet is the most unsettling revelation. If a
+secretive trading firm is structurally capping Bitcoin's price, then
+the supposedly decentralized sanctuary of crypto is, in practice, a
+room already wired into the same hidden market cathedral that
+allocated 90% of S&P returns to AI stocks. The mechanics, once
+understood, can't be unseen: the knocker on Bitcoin's door isn't a
+promise of refuge from traditional finance; it's just another lever in
+the same machine, its boundaries as permeable as any other when enough
+capital and complex strategy are applied. This is the missing
+verification layer made concrete: the price you see isn't the \"true\"
+price; it's the output of a model that has been adversarially
+shaped. The library of finance has a hidden wing, and most of us are
+trading based on an incomplete catalogue. The idle GPU drawing 2 kW is
+the visible cost; the invisible cost is the distortion of reality by a
+handful of firms who have built their own private sanctuaries of data
+and speed.
+
+So where does this leave the recurring search for a space that the
+gravitational pull of 90% capital spending can't touch? Perhaps the
+answer lies in combining the MLX approach with the Grenander purchase:
+use efficient, local tools not to chase the library's expansion, but
+to study the theoretical depths the library ignores. Read the book,
+run the model slowly, ask questions that don't have clocks built to
+answer them. The Jane Street revelation is a warning: every sanctuary,
+even the ones we code into existence, will be engulfed if it becomes
+perceptible to the market's hidden structures. The only truly safe
+haven might be the one that looks too small, too slow, or too abstract
+to bother cannibalizing—the 10% that will never offer a 90% return,
+and that is therefore left alone for the angry, theorizing,
+slow-thinking humans who are still willing to buy a hard copy and read
+it in their own time.
