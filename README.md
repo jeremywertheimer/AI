@@ -4,4 +4,4 @@ Now they're not fictional.
 
 This repo will contain material produced by my current AI experiments.
 
-LLMs involved: Anthropic Sonnet DeepSeek V4 Pro.
+LLMs involved: Anthropic Sonnet and Fable, DeepSeek V4 Pro and Flash.
